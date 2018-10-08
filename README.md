@@ -1,6 +1,12 @@
 # intervals-merge
 util for merging intervals
 
+## Install
+
+```
+npm install intervals-merge
+```
+
 ## Usage
 
 ```
