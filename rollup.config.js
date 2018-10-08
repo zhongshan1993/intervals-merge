@@ -10,7 +10,7 @@ import pkg from './package.json'
 const isProd = process.env.NODE_ENV === 'production'
 
 const basePlugins = [
-    // eslint检查
+    // eslint 检查
     eslint({
         throwOnError: true,
         throwOnWarning: true,
