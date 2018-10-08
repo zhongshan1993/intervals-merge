@@ -1,6 +1,6 @@
 {
   "name": "intervals-merge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "util for merging intervals",
   "main": "./lib/intervals-merge.js",
   "scripts": {
