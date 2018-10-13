@@ -4,5 +4,7 @@ import { parseInterval } from './utils'
 // let development = '{{DEVELOPMENT}}' === 'development'
 export default {
     version: '{{VERSION}}',
-    merge: (intervals = []) => merge(intervals.map(interval => parseInterval(interval)))
+    parseInterval,
+    merge
+    // merge: (intervals = []) => merge(intervals.map(interval => parseInterval(interval)))
 }
