@@ -13,13 +13,13 @@ npm install intervals-merge
 
 We express a interval as
 
-(a, b) => a < x < b
+'(a, b)' => 'a < x < b'
 
-[a, b] => a <= x <= b
+'[a, b]' => 'a <= x <= b'
 
-[a, b) => a <= x < b
+'[a, b)' => 'a <= x < b'
 
-(a, b] => a < x <= b
+'(a, b]' => 'a < x <= b'
 
 Use `parseInterval`, you can parse a interval to an object, for example:
 
