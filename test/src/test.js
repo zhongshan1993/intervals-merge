@@ -1,5 +1,6 @@
 /**
- * 这是测试的入口文件，你的测试代码可以写在这个文件或是这个文件引用的文件中
+ * 这是测试的入口文件，你的测试代码可以写在这个文件或是这个文件引用的
+ * 文件中
  */
 import assert from 'power-assert'
 import isEqual from 'lodash/isEqual'
